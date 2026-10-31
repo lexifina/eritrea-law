@@ -1,0 +1,66 @@
+# The Constitution of Eritrea (ratified 23 May 1997)
+
+Constitution · 1 versions, from 1997-05-23 (latest in force: 1997-05-23) · <https://www.wipo.int/wipolex/en/legislation/details/8937>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Article 1 | [art-01.md](art-01.md) | 0 |  |
+| Article 2 | [art-02.md](art-02.md) | 0 |  |
+| Article 3 | [art-03.md](art-03.md) | 0 |  |
+| Article 4 | [art-04.md](art-04.md) | 0 |  |
+| Article 5 | [art-05.md](art-05.md) | 0 |  |
+| Article 6 | [art-06.md](art-06.md) | 0 |  |
+| Article 7 | [art-07.md](art-07.md) | 0 |  |
+| Article 8 | [art-08.md](art-08.md) | 0 |  |
+| Article 9 | [art-09.md](art-09.md) | 0 |  |
+| Article 10 | [art-10.md](art-10.md) | 0 |  |
+| Article 11 | [art-11.md](art-11.md) | 0 |  |
+| Article 12 | [art-12.md](art-12.md) | 0 |  |
+| Article 13 | [art-13.md](art-13.md) | 0 |  |
+| Article 14 | [art-14.md](art-14.md) | 0 |  |
+| Article 15 | [art-15.md](art-15.md) | 0 |  |
+| Article 16 | [art-16.md](art-16.md) | 0 |  |
+| Article 17 | [art-17.md](art-17.md) | 0 |  |
+| Article 18 | [art-18.md](art-18.md) | 0 |  |
+| Article 19 | [art-19.md](art-19.md) | 0 |  |
+| Article 20 | [art-20.md](art-20.md) | 0 |  |
+| Article 21 | [art-21.md](art-21.md) | 0 |  |
+| Article 22 | [art-22.md](art-22.md) | 0 |  |
+| Article 23 | [art-23.md](art-23.md) | 0 |  |
+| Article 24 | [art-24.md](art-24.md) | 0 |  |
+| Article 25 | [art-25.md](art-25.md) | 0 |  |
+| Article 26 | [art-26.md](art-26.md) | 0 |  |
+| Article 27 | [art-27.md](art-27.md) | 0 |  |
+| Article 28 | [art-28.md](art-28.md) | 0 |  |
+| Article 29 | [art-29.md](art-29.md) | 0 |  |
+| Article 30 | [art-30.md](art-30.md) | 0 |  |
+| Article 31 | [art-31.md](art-31.md) | 0 |  |
+| Article 32 | [art-32.md](art-32.md) | 0 |  |
+| Article 33 | [art-33.md](art-33.md) | 0 |  |
+| Article 34 | [art-34.md](art-34.md) | 0 |  |
+| Article 35 | [art-35.md](art-35.md) | 0 |  |
+| Article 36 | [art-36.md](art-36.md) | 0 |  |
+| Article 37 | [art-37.md](art-37.md) | 0 |  |
+| Article 38 | [art-38.md](art-38.md) | 0 |  |
+| Article 39 | [art-39.md](art-39.md) | 0 |  |
+| Article 40 | [art-40.md](art-40.md) | 0 |  |
+| Article 41 | [art-41.md](art-41.md) | 0 |  |
+| Article 42 | [art-42.md](art-42.md) | 0 |  |
+| Article 43 | [art-43.md](art-43.md) | 0 |  |
+| Article 44 | [art-44.md](art-44.md) | 0 |  |
+| Article 45 | [art-45.md](art-45.md) | 0 |  |
+| Article 46 | [art-46.md](art-46.md) | 0 |  |
+| Article 47 | [art-47.md](art-47.md) | 0 |  |
+| Article 48 | [art-48.md](art-48.md) | 0 |  |
+| Article 49 | [art-49.md](art-49.md) | 0 |  |
+| Article 50 | [art-50.md](art-50.md) | 0 |  |
+| Article 51 | [art-51.md](art-51.md) | 0 |  |
+| Article 52 | [art-52.md](art-52.md) | 0 |  |
+| Article 53 | [art-53.md](art-53.md) | 0 |  |
+| Article 54 | [art-54.md](art-54.md) | 0 |  |
+| Article 55 | [art-55.md](art-55.md) | 0 |  |
+| Article 56 | [art-56.md](art-56.md) | 0 |  |
+| Article 57 | [art-57.md](art-57.md) | 0 |  |
+| Article 58 | [art-58.md](art-58.md) | 0 |  |
+| Article 59 | [art-59.md](art-59.md) | 0 |  |
+| Preamble | [preamble.md](preamble.md) | 0 |  |

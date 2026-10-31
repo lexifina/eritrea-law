@@ -1,0 +1,227 @@
+{
+ "country": "ER",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "The Constitution of Eritrea (ratified 23 May 1997)",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/8937",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 60,
+     "source_url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/er/er001en_1.pdf",
+     "sha256": "8f2e3ce86ec546f5f709d00be88a88e64c8427206a3b3ca33a9f63660b51ae86"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "Eritrea: legal system facts (Wikidata)",
+   "url": "https://www.wikidata.org/wiki/Q986",
+   "versions": [
+    {
+     "from": "1993-05-24",
+     "units": 1,
+     "source_url": "https://www.wikidata.org/wiki/Q986",
+     "sha256": "wikidata-entity-Q986"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://www.wikidata.org/wiki/Q986",
+     "sha256": "wikidata-entity-Q986"
+    }
+   ]
+  },
+  {
+   "slug": "treaties",
+   "short": "Treaties",
+   "title": "Treaty actions of Eritrea (UN Treaty Collection)",
+   "url": "https://treaties.un.org/",
+   "versions": [
+    {
+     "from": "1993-07-24",
+     "units": 1,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1993-12-20",
+     "units": 2,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1994-08-03",
+     "units": 2,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1994-10-14",
+     "units": 3,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1994-11-16",
+     "units": 4,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1995-04-24",
+     "units": 5,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1995-09-05",
+     "units": 6,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1996-03-21",
+     "units": 7,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1996-08-14",
+     "units": 7,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1997-01-14",
+     "units": 9,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1998-10-07",
+     "units": 10,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2001-04-17",
+     "units": 11,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2001-07-31",
+     "units": 12,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2001-08-27",
+     "units": 13,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2002-01-22",
+     "units": 14,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2002-01-30",
+     "units": 18,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2005-02-16",
+     "units": 20,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2005-03-10",
+     "units": 24,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2005-07-28",
+     "units": 25,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2014-09-25",
+     "units": 28,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 29,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2023-02-07",
+     "units": 29,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2025-01-06",
+     "units": 30,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "Penal Code of the State of Eritrea (2015)",
+   "url": "https://www.refworld.org/docid/55a51ccc4.html",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 397,
+     "source_url": "https://www.refworld.org/pdfid/55a51ccc4.pdf",
+     "sha256": "9455a14ae267d601a2d0a7af2525c0bd2acd698afe797c293d3dad6abe0ccca8"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure-code",
+   "short": "Criminal Procedure Code",
+   "title": "Criminal Procedure Code of the State of Eritrea (2015)",
+   "url": "https://www.refworld.org/docid/55a51de04.html",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 197,
+     "source_url": "https://www.refworld.org/pdfid/55a51de04.pdf",
+     "sha256": "fe1da387ed6e2ded480029d9a2d24b30959eff452f0cd351fcf6664ee1e38801"
+    }
+   ]
+  },
+  {
+   "slug": "civil-procedure-code",
+   "short": "Civil Procedure Code",
+   "title": "Civil Procedure Code of the State of Eritrea (2015)",
+   "url": "https://www.refworld.org/docid/55a51d914.html",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 501,
+     "source_url": "https://www.refworld.org/pdfid/55a51d914.pdf",
+     "sha256": "240e402482fc6e48a15c0ae8332ceb2633f532be81dbf04d8029a6a409df58c9"
+    }
+   ]
+  }
+ ]
+}
