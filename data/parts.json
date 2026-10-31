@@ -1,0 +1,23 @@
+{
+ "parts": {
+  "20-penal-code.json": {
+   "acts": [
+    "penal-code"
+   ],
+   "sha256": "564f4ba594b425fb2fe01b2dfda8ddeb605f830ff1d610bef48ea64645293354"
+  },
+  "30-criminal-procedure-code.json": {
+   "acts": [
+    "criminal-procedure-code"
+   ],
+   "sha256": "f59d9bc57c3103cc1bec89b548271d1af6c347cb537da456873fbe1d851496c2"
+  },
+  "40-civil-procedure-code.json": {
+   "acts": [
+    "civil-procedure-code"
+   ],
+   "sha256": "27e0fdb75712d8bc783fd26f6332e784280b1f22ddb29680d2fecb34a5628e36"
+  }
+ },
+ "schema": 1
+}
