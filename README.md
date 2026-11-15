@@ -17,7 +17,7 @@ The text is in English, as the copies used print it: the English text of the Con
 | --- | --- |
 | Every change to Article 1 of the Constitution | `git log -p --word-diff -- constitution/art-01.md` |
 | Which act wrote each paragraph of Article 1? | `git blame constitution/art-01.md` |
-| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution` |
+| Every version of the Constitution, with the day each took effect | `git log --grep="^In-force:" --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution` |
 | Article 1 as the record has it on 1 January 2026 | `python tools/on.py 2026-01-01 constitution art-01` |
 
 **Outside git**, we also host this record publicly, for free:
@@ -46,7 +46,7 @@ Each commit is dated at noon, Africa/Asmara, on the day the version took effect,
 - the three codes: 15 May 2015, the date of the Minister of Justice's foreword to the 2015 edition. The Penal Code (Art. 3) and the Civil Procedure Code (Art. 1(1)) come into force on publication in the Gazette of Eritrean Laws, a date the copies used do not print; the Criminal Procedure Code names no day;
 - treaty actions: the day of each signature, ratification, accession or acceptance; legal-system facts: the fact's own date where Wikidata gives one, otherwise the day they were read, 30 October 2026.
 
-The Constitution is credited to itself. Each code is credited to the Ministry of Justice as the oldest version available, since no earlier text is available; each treaty action is credited to that action. The committer is always Lexifina.
+The Constitution is credited to itself, and each treaty action after the first to that action. Each code is credited to the Ministry of Justice as the oldest version available, since no earlier text is available; the first treaty version (the 1993 acceptance of the WHO Constitution) and the legal-system facts are credited to their sources. The committer is always Lexifina.
 
 ## How it is checked
 
@@ -57,7 +57,7 @@ The Constitution is credited to itself. Each code is credited to the Ministry of
 ## What it does not show
 
 - **Law in force under the Constitution.** The 1997 Constitution has never been implemented; its files are the text as ratified, not law that applies.
-- **The Civil Code of 2015.** No copy with a usable text layer was found, so of the 2015 codes only the Penal, Criminal Procedure and Civil Procedure Codes are here.
+- **The Civil Code of 2015.** The only copy found is a scan with machine-read (OCR) text, so it is not used; of the 2015 codes, only the Penal, Criminal Procedure and Civil Procedure Codes are here.
 - **Proclamations and legal notices** of the Gazette of Eritrean Laws, and case law: none yet.
 - **Amendments.** Each code is one text, its 2015 edition; the copies record no later amendments.
 - **The Penal Code's five annexes** (charts of graduated classes and of aggravating, mitigating and recidivism circumstances), whose layout the PDF's text layer does not keep.
