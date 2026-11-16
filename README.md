@@ -58,6 +58,7 @@ The Constitution is credited to itself, and each treaty action after the first t
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus: 29 versions of 6 acts, 0 mismatches. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - A second build from the same corpus gave identical hashes for all 39 history commits and 63 tags; the SHA-256 of each source PDF is recorded in `data/versions.json`.
 - History is append-only: no merge commits, no commit dates that go backwards, none dated after the build, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ The Constitution is credited to itself, and each treaty action after the first t
 See [`LICENSE`](LICENSE). Official legislative texts are outside Eritrean copyright: the Civil Code of the State of Eritrea (2015), Article 1161, provides that they "may be freely reproduced" (Article 1651 of the 1993 Provisional Civil Code was to the same effect). The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
